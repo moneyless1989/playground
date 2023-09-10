@@ -22,7 +22,7 @@
 <h2>개발환경</h2>
 
 ❖ IDE ❖ <br><br>
-<img src="https://img.shields.io/badge/IntelliJ IDEA Communit-000000?style=flat&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA Community-000000?style=flat&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
 ❖ Language ❖ <br><br>
@@ -60,7 +60,7 @@ Mysql 5.7 버전이 23년 10월 지원 종료<br>지원 종료로 인해 Mysql 8
 
 <h2> Git Repository </h2>  
 
-[PlAYGROUND React](https://github.com/jaynamm/playground-react)
+[PlAYGROUND React](https://github.com/moneyless1989/playground-react)
 
 <br>
 
@@ -92,7 +92,5 @@ Mysql 5.7 버전이 23년 10월 지원 종료<br>지원 종료로 인해 Mysql 8
 |   🚨   |   WARNING - 긴급하게 검토 후 배포    |
 
 예시 ) ✅ 환경설정 값 변경 적용
-
-좋은 의견 있으면 제시 부탁드립니다.
 
 </div>
